@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const cookieParser = require('cookie-parser');
-const backendRoutes = require('./routes/router.js');
+const backendRoutes = require('');
 
 const port = 3000;
 const host = 'localhost';
