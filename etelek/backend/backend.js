@@ -16,7 +16,7 @@ let connection = mysql.createConnection({
     database: 'etlap'
 });
 
-app.get('/etlap', (req, res) => {
+app.get('/etelek', (req, res) => {
     connection.query('SELECT * FROM etlap', (err, results) => {
         if (err) {
             console.log(err);
@@ -27,20 +27,8 @@ app.get('/etlap', (req, res) => {
         }
     });
 });
-app.delete('/etlap', (req, res) => {
-    const id = req.body.id;
-    console.log(id);
-    connection.query('DELETE FROM etlap WHERE id=?', [id], (err, results) => {
-        if (err) {
-            console.log(err);
-            res.send("hiba");
-        } else {
-            console.log(results);
-            res.send("Sikeres törlés!");
-        }
-    });
-});
-app.post('/etlap', (req, res) => {
+
+app.post('/etelek', (req, res) => {
     const { id, neve, energia, szenh, ara, kategoria } = req.body;
     console.log(id);
     connection.query('INSERT INTO etlap(id, neve, energia, szenh, ara, kategoria) VALUES (NULL, ?, ?, ?, ?, ?)',

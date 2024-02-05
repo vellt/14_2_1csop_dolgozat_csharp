@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-NetworkService",
+      "appliesTo": "Etel/NetworkService/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-NetworkService",
+      "appliesTo": "Etel/NetworkService/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-NetworkService",
+      "appliesTo": "Etel/NetworkService/NetworkService.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Etel",
+      "appliesTo": "Etel/Models/Etel.cs",
+      "type": "launch"
+    }
+  ]
+}
