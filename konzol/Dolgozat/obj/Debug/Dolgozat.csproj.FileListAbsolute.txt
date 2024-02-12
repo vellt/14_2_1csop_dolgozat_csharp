@@ -1,0 +1,10 @@
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe.config
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\bin\Debug\Dolgozat.exe
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\bin\Debug\Dolgozat.pdb
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.AssemblyReference.cache
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\obj\Debug\Dolgozat.csproj.CopyComplete
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\obj\Debug\Dolgozat.exe
+C:\Users\Hulvej Szabolcs\Desktop\Dolgozat2024.02.12\Dolgozat\Dolgozat\obj\Debug\Dolgozat.pdb
