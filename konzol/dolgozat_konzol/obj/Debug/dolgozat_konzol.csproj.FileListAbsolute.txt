@@ -1,0 +1,2 @@
+C:\Users\diak\Desktop\dolgozat_konzol\dolgozat_konzol\obj\Debug\dolgozat_konzol.csprojAssemblyReference.cache
+C:\Users\diak\Desktop\dolgozat_konzol\dolgozat_konzol\obj\Debug\dolgozat_konzol.csproj.CoreCompileInputs.cache
